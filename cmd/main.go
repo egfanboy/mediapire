@@ -16,7 +16,6 @@ import (
 )
 
 func main() {
-
 	zerolog.SetGlobalLevel(zerolog.InfoLevel)
 
 	log.Debug().Msg("starting webserver")
@@ -29,6 +28,9 @@ func main() {
 			b.Build(mainRouter)
 		}
 	}
+
+	// Enable CORS
+	mainRouter.Use(mux.CORSMethodMiddleware(mainRouter))
 
 	srv := &http.Server{
 		Addr:         fmt.Sprintf("0.0.0.0:%d", mediaManager.Port),

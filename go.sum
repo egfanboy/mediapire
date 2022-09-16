@@ -12,8 +12,9 @@ github.com/dhowden/itl v0.0.0-20170329215456-9fbe21093131/go.mod h1:eVWQJVQ67aMv
 github.com/dhowden/plist v0.0.0-20141002110153-5db6e0d9931a/go.mod h1:sLjdR6uwx3L6/Py8F+QgAfeiuY87xuYGwCDqRFrvCzw=
 github.com/dhowden/tag v0.0.0-20220618230019-adf36e896086/go.mod h1:Z3Lomva4pyMWYezjMAU5QWRh0p1VvO4199OHlFnyKkM=
 github.com/egfanboy/mediapire-common v0.0.0-20220828193527-bd4d006a2cb6/go.mod h1:PfxxoHTUvFmiaEvmipwuReMmo8jQqe9mhHtWODuL7OI=
-github.com/egfanboy/mediapire-common v0.0.0-20220905143518-e3d4d7ef0bac h1:hoHUNRdWqqwpf49lCTvo9h45ZeJqvO2zmEFhi2pOJnQ=
 github.com/egfanboy/mediapire-common v0.0.0-20220905143518-e3d4d7ef0bac/go.mod h1:PfxxoHTUvFmiaEvmipwuReMmo8jQqe9mhHtWODuL7OI=
+github.com/egfanboy/mediapire-common v0.0.0-20220916222922-d4b407ac03e7 h1:5N20ZpGhEL5WFqoI6/K8Mq0ny39wAH/XP7rsNJQv2/c=
+github.com/egfanboy/mediapire-common v0.0.0-20220916222922-d4b407ac03e7/go.mod h1:PfxxoHTUvFmiaEvmipwuReMmo8jQqe9mhHtWODuL7OI=
 github.com/egfanboy/mediapire-manager v0.0.0-20220904162026-6b73483348a2/go.mod h1:uTaKJjpn1y9kf2nFcfra5Bc0bjiHzog5WPLRtlELQvU=
 github.com/egfanboy/mediapire-media-host v0.0.0-20220828193959-b4703c0b0de3/go.mod h1:Cww9Y18zSpFx/3C0E+W3itI2CXRleZvpm3C55ciCPh8=
 github.com/egfanboy/mediapire-media-host v0.0.0-20220905144209-41b677b2a6a6 h1:NWem8bLeycdACoqTkyO3osr8DFyLjM48j5RY2TNkVNM=
